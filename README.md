@@ -3,4 +3,4 @@
 
 Интересного просмотра!
 
-![txt](http://www.poleznoe.ru/large/201110/1421.jpg) 
+![txt](http://www.poleznoe.ru/large/201110/1421.jpg "Тим Рот в роли Пола Экмана") 
